@@ -1,0 +1,106 @@
+{
+  "init": [
+    {
+      "name": "initJssCs",
+      "filename": "D:/Caute/Documents/GitHub/Fictitious-Rotor/oc-guide/.codedoc/node_modules/@codedoc/core/dist/es5/transport/setup-jss.js",
+      "hash": "LrXi9LRUC7CxQXWdoZVgNQ=="
+    },
+    {
+      "name": "installTheme",
+      "filename": "D:/Caute/Documents/GitHub/Fictitious-Rotor/oc-guide/.codedoc/content/theme.ts",
+      "hash": "WUYKBts0Gr18pdOaV4k71A=="
+    },
+    {
+      "name": "codeSelection",
+      "filename": "D:/Caute/Documents/GitHub/Fictitious-Rotor/oc-guide/.codedoc/node_modules/@codedoc/core/dist/es5/components/code/selection.js",
+      "hash": "WSQa7rUk1CZr2IFnwaAFOA=="
+    },
+    {
+      "name": "sameLineLengthInCodes",
+      "filename": "D:/Caute/Documents/GitHub/Fictitious-Rotor/oc-guide/.codedoc/node_modules/@codedoc/core/dist/es5/components/code/same-line-length.js",
+      "hash": "qNyq6jGgKrojLRrVkeh+tg=="
+    },
+    {
+      "name": "initHintBox",
+      "filename": "D:/Caute/Documents/GitHub/Fictitious-Rotor/oc-guide/.codedoc/node_modules/@codedoc/core/dist/es5/components/code/line-hint/index.js",
+      "hash": "mF+ib6y5q7i+5ytrpWENgQ=="
+    },
+    {
+      "name": "initCodeLineRef",
+      "filename": "D:/Caute/Documents/GitHub/Fictitious-Rotor/oc-guide/.codedoc/node_modules/@codedoc/core/dist/es5/components/code/line-ref/index.js",
+      "hash": "dH/oZUc4ukQWGQi5jHMiPQ=="
+    },
+    {
+      "name": "initSmartCopy",
+      "filename": "D:/Caute/Documents/GitHub/Fictitious-Rotor/oc-guide/.codedoc/node_modules/@codedoc/core/dist/es5/components/code/smart-copy.js",
+      "hash": "4pz3n1cA621AIq+mq+TLuA=="
+    },
+    {
+      "name": "copyHeadings",
+      "filename": "D:/Caute/Documents/GitHub/Fictitious-Rotor/oc-guide/.codedoc/node_modules/@codedoc/core/dist/es5/components/heading/copy-headings.js",
+      "hash": "1PnadHjcCxY+QyrlH1i0Qw=="
+    },
+    {
+      "name": "contentNavHighlight",
+      "filename": "D:/Caute/Documents/GitHub/Fictitious-Rotor/oc-guide/.codedoc/node_modules/@codedoc/core/dist/es5/components/page/contentnav/highlight.js",
+      "hash": "g2AphZWHO2IeYG8/AxwaMw=="
+    },
+    {
+      "name": "loadDeferredIFrames",
+      "filename": "D:/Caute/Documents/GitHub/Fictitious-Rotor/oc-guide/.codedoc/node_modules/@codedoc/core/dist/es5/transport/deferred-iframe.js",
+      "hash": "QJqtW80os3GB79riaH6QRg=="
+    },
+    {
+      "name": "smoothLoading",
+      "filename": "D:/Caute/Documents/GitHub/Fictitious-Rotor/oc-guide/.codedoc/node_modules/@codedoc/core/dist/es5/transport/smooth-loading.js",
+      "hash": "XHcR0dcJ3ZR2NAMHPfceAw=="
+    },
+    {
+      "name": "tocHighlight",
+      "filename": "D:/Caute/Documents/GitHub/Fictitious-Rotor/oc-guide/.codedoc/node_modules/@codedoc/core/dist/es5/components/page/toc/toc-highlight.js",
+      "hash": "tZw+IrcEYGfSw04IMVB8Zw=="
+    },
+    {
+      "name": "postNavSearch",
+      "filename": "D:/Caute/Documents/GitHub/Fictitious-Rotor/oc-guide/.codedoc/node_modules/@codedoc/core/dist/es5/components/page/toc/search/post-nav/index.js",
+      "hash": "379LF/ATFtGcmKWDBueWyg=="
+    }
+  ],
+  "components": [
+    {
+      "name": "ToCPrevNext",
+      "filename": "D:/Caute/Documents/GitHub/Fictitious-Rotor/oc-guide/.codedoc/node_modules/@codedoc/core/dist/es5/components/page/toc/prevnext/index.js",
+      "hash": "qCFFsX0Fw+xx6pnH34s6MA=="
+    },
+    {
+      "name": "ToCToggle",
+      "filename": "D:/Caute/Documents/GitHub/Fictitious-Rotor/oc-guide/.codedoc/node_modules/@codedoc/core/dist/es5/components/page/toc/toggle/index.js",
+      "hash": "fjKNXhCbqJ+3KjYOEA1F4Q=="
+    },
+    {
+      "name": "DarkModeSwitch",
+      "filename": "D:/Caute/Documents/GitHub/Fictitious-Rotor/oc-guide/.codedoc/node_modules/@codedoc/core/dist/es5/components/darkmode/index.js",
+      "hash": "Ivzka32K8i6GFUe7P6TwaQ=="
+    },
+    {
+      "name": "ConfigTransport",
+      "filename": "D:/Caute/Documents/GitHub/Fictitious-Rotor/oc-guide/.codedoc/node_modules/@codedoc/core/dist/es5/transport/config.js",
+      "hash": "ehSEZ2ECBijvOkWUKOMImw=="
+    },
+    {
+      "name": "TabSelector",
+      "filename": "D:/Caute/Documents/GitHub/Fictitious-Rotor/oc-guide/.codedoc/node_modules/@codedoc/core/dist/es5/components/tabs/selector.js",
+      "hash": "uiFWYzQnKtZQQHsz359zbw=="
+    },
+    {
+      "name": "CollapseControl",
+      "filename": "D:/Caute/Documents/GitHub/Fictitious-Rotor/oc-guide/.codedoc/node_modules/@codedoc/core/dist/es5/components/collapse/collapse-control.js",
+      "hash": "Micszb/ikg/7mXPkaw0GiA=="
+    }
+  ],
+  "renderer": {
+    "name": "getRenderer",
+    "filename": "D:/Caute/Documents/GitHub/Fictitious-Rotor/oc-guide/.codedoc/node_modules/@codedoc/core/dist/es5/transport/renderer.js",
+    "hash": "GkVhR5xQyrYU37Z4NmA2TA=="
+  }
+}
